@@ -45,16 +45,16 @@
 #search {
   position: relative;
   font-size: 25px;
-  margin-left: 183px;
+  margin-left: 203px;
 }
 
-#bar {
+#searcher {
   background-color: #E6E6E6;
-  height: 22px;
-  width: 425px;
+  height: 16px;
+  width: 415px;
   position: absolute;
-  margin-left: 270px;
-  margin-top: -24px;
+  margin-left: 25px;
+  margin-top: 4px;
 }
 
 #circles {
